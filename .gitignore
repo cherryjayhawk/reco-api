@@ -1,0 +1,8 @@
+/__pycache__
+/model/__pycache__
+/venv
+.env
+/routes
+request.rest
+dependencies.py
+.vercel
